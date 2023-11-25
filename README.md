@@ -17,7 +17,7 @@ Usarei como base o vídeo tutorial do canal `Bruno Castro` da plataforma Youtube
 * ReactJS 18.2.0
 
 ### Clonar o repositório
-* Para clonar o repositório, abra seu terminal e execute o comando 
+* Para clonar o repositório, abra seu terminal e execute o comando `git clone https://github.com/AlexandrelSousa/ChatSD-Client.git`
 
 ### Executar o projeto
-* [Em processo de contrução]
+* [Em processo de construção]
