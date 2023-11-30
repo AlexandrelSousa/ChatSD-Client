@@ -19,4 +19,9 @@ Usarei como base o vídeo tutorial do canal `Bruno Castro` da plataforma Youtube
 * Para clonar o repositório, abra seu terminal e execute o comando `git clone https://github.com/AlexandrelSousa/ChatSD-Client.git`
 
 ### Executar o projeto
-* [Em processo de construção]
+#### Passo 1: Instalar o node
+Para instalar o nodeJS na sua máquina basta ir até o site `https://nodejs.org/en`, selecionar seu navegador e seguir as instruções de instalação do site. Para verificar se está tudo devidamente instalado, abra um terminal e digite `npm -v`, se a mensagem for uma versão do npm é porque tudo foi instalado com êxito.
+#### Passo 2: Instalando todas as dependências
+Com o projeto devidamente clonado na sua máquina, abra um terminal e navegue por seus diretorios até a pasta do projeto, com ela aberta, digite no terminal `npm install .`, isso instalará todas as dependências necessárias para rodar o seu projeto.
+#### Passo 3: Rodando o projeto
+Ainda com a pasta do projeto aberta no seu terminal, rode o comando `npm run dev` e abra seu navegador com o localhost na porta em que seu projeto está rodando.
